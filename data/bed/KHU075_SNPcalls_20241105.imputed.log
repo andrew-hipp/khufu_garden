@@ -1,0 +1,32 @@
+PLINK v1.90b6.21 64-bit (19 Oct 2020)
+Options in effect:
+  --allow-extra-chr
+  --make-bed
+  --out ../data/bed/KHU075_SNPcalls_20241105.imputed
+  --remove ../data/gambelii.txt
+  --vcf ../data/KHUFU/KHU075_SNPcalls_20241105.imputed.vcf.gz
+
+Hostname: RES-RM326
+Working directory: /home/andrew/Dropbox/NSF-DOB-BurOak-core-files/PAPERS-AND-PROJECTS/KHUFU/2024/v3/scripts
+Start time: Thu Nov 14 14:45:10 2024
+
+Random number seed: 1731617110
+64200 MB RAM detected; reserving 32100 MB for main workspace.
+--vcf: ../data/bed/KHU075_SNPcalls_20241105.imputed-temporary.bed +
+../data/bed/KHU075_SNPcalls_20241105.imputed-temporary.bim +
+../data/bed/KHU075_SNPcalls_20241105.imputed-temporary.fam written.
+249112 variants loaded from .bim file.
+950 people (0 males, 0 females, 950 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to ../data/bed/KHU075_SNPcalls_20241105.imputed.nosex
+.
+--remove: 948 people remaining.
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 948 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+249112 variants and 948 people pass filters and QC.
+Note: No phenotypes present.
+--make-bed to ../data/bed/KHU075_SNPcalls_20241105.imputed.bed +
+../data/bed/KHU075_SNPcalls_20241105.imputed.bim +
+../data/bed/KHU075_SNPcalls_20241105.imputed.fam ... done.
+
+End time: Thu Nov 14 14:45:15 2024

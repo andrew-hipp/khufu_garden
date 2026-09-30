@@ -1,0 +1,15 @@
+id
+sample
+numGenotypesPass
+numGenotypesNonref
+numHomoRef
+numHomoAlt
+numHet
+numHemi
+numSNVs
+numIndels
+numSingletons
+numMissing
+num_ts
+num_tv
+ts_tv

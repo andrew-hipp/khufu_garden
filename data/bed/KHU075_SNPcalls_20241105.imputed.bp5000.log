@@ -1,0 +1,26 @@
+PLINK v2.00a5.12LM 64-bit Intel (25 Jun 2024)
+Options in effect:
+  --allow-extra-chr
+  --bfile ../data/bed/KHU075_SNPcalls_20241105.imputed
+  --bp-space 5000
+  --export phylip
+  --out ../data/bed/KHU075_SNPcalls_20241105.imputed.bp5000
+
+Hostname: RES-RM326
+Working directory: /home/andrew/Dropbox/NSF-DOB-BurOak-core-files/PAPERS-AND-PROJECTS/KHUFU/2024/v3/scripts
+Start time: Thu Nov 14 14:45:16 2024
+
+Random number seed: 1731617116
+64200 MiB RAM detected, ~26621 available; reserving 26557 MiB for main
+workspace.
+Using up to 16 threads (change this with --threads).
+948 samples (0 females, 0 males, 948 ambiguous; 948 founders) loaded from
+../data/bed/KHU075_SNPcalls_20241105.imputed.fam.
+249112 variants loaded from ../data/bed/KHU075_SNPcalls_20241105.imputed.bim.
+Note: No phenotype data present.
+--bp-space: 234725 variants removed (14387 remaining).
+14387 variants remaining after main filters.
+--export phylip: ../data/bed/KHU075_SNPcalls_20241105.imputed.bp5000.phy
+written.
+
+End time: Thu Nov 14 14:45:16 2024

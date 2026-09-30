@@ -1,0 +1,38 @@
+PLINK v1.90b6.21 64-bit (19 Oct 2020)
+Options in effect:
+  --allow-extra-chr
+  --geno 0.9
+  --make-bed
+  --mind 0.9
+  --out ../data/bed/KHU075_SNPcalls_20241105.raw.m90
+  --remove ../data/gambelii.txt
+  --vcf ../data/KHUFU/KHU075_SNPcalls_20241105.raw.vcf.gz
+
+Hostname: RES-RM326
+Working directory: /home/andrew/Dropbox/NSF-DOB-BurOak-core-files/PAPERS-AND-PROJECTS/KHUFU/2024/v3/scripts
+Start time: Thu Nov 14 14:45:59 2024
+
+Random number seed: 1731617159
+64200 MB RAM detected; reserving 32100 MB for main workspace.
+--vcf: ../data/bed/KHU075_SNPcalls_20241105.raw.m90-temporary.bed +
+../data/bed/KHU075_SNPcalls_20241105.raw.m90-temporary.bim +
+../data/bed/KHU075_SNPcalls_20241105.raw.m90-temporary.fam written.
+249112 variants loaded from .bim file.
+950 people (0 males, 0 females, 950 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to ../data/bed/KHU075_SNPcalls_20241105.raw.m90.nosex
+.
+--remove: 948 people remaining.
+1 person removed due to missing genotype data (--mind).
+ID written to ../data/bed/KHU075_SNPcalls_20241105.raw.m90.irem .
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 947 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate in remaining samples is 0.705401.
+0 variants removed due to missing genotype data (--geno).
+249112 variants and 947 people pass filters and QC.
+Note: No phenotypes present.
+--make-bed to ../data/bed/KHU075_SNPcalls_20241105.raw.m90.bed +
+../data/bed/KHU075_SNPcalls_20241105.raw.m90.bim +
+../data/bed/KHU075_SNPcalls_20241105.raw.m90.fam ... done.
+
+End time: Thu Nov 14 14:46:04 2024
