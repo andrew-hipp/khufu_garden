@@ -1,2 +1,5 @@
-# khufu_garden
-Khufu data analysis, bur oak common garden data
+# running khufu analyses
+1. start by initiating conda environment: `conda activate garden`  
+2. `jupyter notebook` from v3  
+3. execute ipynb scripts in `scripts` folder  
+
